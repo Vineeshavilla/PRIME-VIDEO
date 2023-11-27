@@ -1,7 +1,8 @@
 # Prime-Video
 🎬 Prime Video Power BI Project
 
-Unlock actionable insights and visualize the performance metrics of your Prime Video content with this Power BI dashboard project. Leverage advanced analytics to understand viewer behavior, engagement patterns, and optimize content strategy. 
+Unlock actionable insights and visualize the performance metrics of your Prime Video content with this Power BI dashboard project. Leverage advanced analytics to understand viewer behavior, engagement patterns, and optimize content strategy.
+
 🚀 Key Features:
 
 Viewer Analytics: Dive deep into viewer ratings and user engagement.
