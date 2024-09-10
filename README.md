@@ -7,7 +7,7 @@ Unlock actionable insights and visualize the performance metrics of your Prime V
 
 - Viewer Analytics: Dive deep into viewer ratings and user engagement.
 
--- Content Performance: Analyze the popularity of your content, identify trends, and refine your library.
+- Content Performance: Analyze the popularity of your content, identify trends, and refine your library.
 
 - Geographic Insights: Explore viewer distribution and tailor your content strategy for specific regions.
 
